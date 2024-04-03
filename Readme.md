@@ -1,5 +1,5 @@
-## Agent-based Modeling for Archeologists
-This repository contains the code for the website of the Erasmus+ Agent-based Modeling for Archeologists project.
+## Agent-based Modeling for Archaeologists
+This repository contains the code for the website of the Erasmus+ Agent-based Modeling for Archaeologists project.
 The website is used for the disemination of the interactive tutorials created in this project. The website is hosted on GitHub Pages.
 
 ## Setting up GitHub pages:
