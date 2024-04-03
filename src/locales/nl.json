@@ -1,0 +1,327 @@
+{
+  "navigation": {
+    "home": "Home",
+    "course": "Lesmateriaal",
+    "spoc-course": "Online cursus",
+    "tutorial": "Tutorials",
+    "resources": "Meer",
+    "about": "Over"
+  },
+  "home": {
+    "abf": {
+      "title": "Agent-Based Modeling voor archeologen",
+      "paragraph": "Welkom! Deze website is voor jou als je wil leren hoe je agent-based modelen kunt bouwen en hoe je ze kunt gebruiken in je werk als archeoloog. Op deze website vind je een interactieve tutorials, die beginnen met de basis en geleidelijk aan leiden tot meer geavanceerde onderwerpen. Deze tutorials zijn geschikt voor beginners en mensen die hun modelling skills willen verbeteren.",
+      "button": "Start Tutorials"
+    },
+    "explanation": {
+      "title": "Korte uitleg",
+      "paragraph": "Agent-Based Modeling is een sterke manier om ingewikkelde systemen na te doen door te kijken naar actoren die we 'agenten' noemen. We bootsen hun interacties op een heel gedetailleerd niveau na. In tegenstelling tot gewone modellen die vaak het hele plaatje overzien, begint ABM juist bij deze actoren. Het kijkt naar hoe zij zich gedragen en op elkaar reageren.",
+      "sectionTitle1": "Agent ",
+      "section1": "Allereerst het begrip ‘Agent-Based’. Agent-Based betekend dat er in het model met ‘agents’ gewerkt gaat worden. Deze agents zijn als het ware ‘actoren’ waaraan jij regels en acties geeft. Aan de hand van deze regels en acties zullen de agents/actoren met elkaar en hun omgeving omgaan.   ",
+      "sectionTitle2": "Model ",
+      "section2": "Het tweede begrip is Model. Het Model is een simpele weergave van de werkelijkheid. Het is niet precies hetzelfde als in het echt.  "
+    },
+    "abmInArcheology": {
+      "title": "Simuleren binnen de archeologie",
+      "description": "Stel je voor dat je terug kunt gaan in de tijd en naar het dagelijks leven van mensen in het verleden kunt kijken. ABM maakt zoiets virtueel mogelijk door agents en hoe ze met elkaar omgaan na te bootsen. Hierdoor kunnen we niet alleen begrijpen hoe samenlevingen veranderen, maar ook onderzoeken hoe individuele keuzes grote gebeurtenissen in de geschiedenis beïnvloeden.",
+      "examples": {
+        "title": "Voorbeeld simulaties",
+        "hunter": {
+          "title": "Jager-verzamelaar",
+          "description": "Er kan een ABM worden gebruikt om te onderzoeken hoe jager-verzamelaar gemeenschappen omgingen met hun omgeving en zich bewogen. Hierbij is het bijvoorbeeld mogelijk om gedrag te simuleren op basis van de beschikbaarheid van grondstoffen.",
+          "image": "../assets/Hunter.gif",
+          "button": "Voorbeeld"
+        },
+        "cart": {
+          "title": "Nederzettingen",
+          "description": "Het is mogelijk om nederzettingen uit het verleden te simuleren met behulp van ABM. Hierbij kan er bijvoorbeeld het effect van politieke factoren op de ontwikkelen van samenlevingen onderzocht worden.",
+          "image": "../assets/cart.gif",
+          "button": "Voorbeeld"
+        },
+        "trade": {
+          "title": "Economische systemen",
+          "description": "ABM kan worden toegepast om economische systemen in het verleden te simuleren. Bijvoorbeeld door de handel tussen agenten te simuleren gebaseerd op vraag, competitie en beschikbaarheid.",
+          "image": "../assets/trade.gif",
+          "button": "Voorbeeld"
+        }
+      }
+    },
+    "learnAbm": {
+      "title": "Ontdek Agent-Based Modeling Zelf",
+      "description": "",
+      "courseTutorial": {
+        "lessonMaterial": {
+          "title": "Lesmateriaal",
+          "description": "Maak kennis met Agent-Based Modeling door middel van ons lesmateriaal. Van fundamentele principes tot geavanceerde toepassingen.",
+          "button": "Ontdek"
+        },
+        "tutorial": {
+          "title": "Tutorials",
+          "description": "Leer de basisprincipes van ABM met onze interactieve tutorials. Klik hier om te beginnen en dompel jezelf onder in de wereld van agents en patches. De tutorials begeleiden je stap voor stap door de essentiële concepten.",
+          "button": "Ontdek"
+        },
+        "resources": {
+          "title": "Verdere bronnen",
+          "description": "Meer materiaal om jezelf bekend te maken met agent-based modeling.",
+          "button": "Ontdek"
+        },
+        "courseSPOC": {
+          "title": "Online materiaal",
+          "description": "Videos van een eerder vak over ‘Modelling and Simulation in Archaeology’.",
+          "button": "Ontdek"
+        }
+      }
+    },
+    "abmPrograms": {
+      "title": "Agent-Based Modeling programma's",
+      "description": "Agent-Based Modeling kan worden toegepast met behulp van verschillende programma's en platforms die zijn ontworpen modellen te bouwen en simuleren. Een populair programma is NetLogo. Dit is een gebruiksvriendelijk platform en zeer geschikt voor beginners. Hiermee zal ook gewerkt worden in de Tutorials."
+    }
+  },
+  "course": {
+    "title": "Lesmateriaal",
+    "description": "In deze cursus bieden we leermiddelen aan, waaronder lesbrieven, presentaties en interactieve werkbladen, om je kennis en begrip over Agent-Based Modeling te vergroten. De docent heeft geen specifieke voorkennis nodig om een effectieve les te geven. Bovendien is de duur van het geven van de les en het (gezamenlijk) maken van de opdrachten beperkt tot maximaal 1.5 uur. ",
+    "courseOptions": {
+      "presentation": {
+        "title": "Presentatie"
+      },
+      "worksheet": {
+        "title": "Werkblad"
+      },
+      "teacherGuide": {
+        "title": "Docentenhandleiding"
+      }
+    },
+    "topics": {
+      "presentation": {
+        "title": "Presentatie",
+        "description": {
+          "title": "Inhoud",
+          "description": "De presentatie biedt visuele ondersteuning aan om het begrip van Agent-Based Modeling te vereenvoudigen. Deze presentatie bevat afbeeldingen, animaties en uitleg om de complexe concepten op een heldere en boeiende wijze over te brengen. "
+        },
+        "illustrations": {
+          "title": "Illustraties",
+          "description": "Agent-Based Modeling wordt nog duidelijker met behulp van illustraties."
+        },
+        "animations": {
+          "title": "Animaties",
+          "description": "Animaties voegen een dynamisch element toe aan de uitleg van Agent-Based Modeling."
+        },
+        "video": {
+          "title": "Video",
+          "description": "Een video geeft een grondige blik op de toepassing van Agent-Based Modeling binnen de archeologie."
+        }
+      },
+      "worksheet": {
+        "title": "Werkblad",
+        "description": {
+          "title": "Inhoud",
+          "description": "Dit werkblad fungeert als een handig hulpmiddel om de opgedane kennis toe te passen. Dit werkblad bevat oefeningen, vragen en taken die je kunt uitvoeren zodat je het begrip van Agent-Based Modeling kunt versterken. "
+        },
+        "exercises": {
+          "title": "Oefeningen",
+          "description": "De oefeningen stellen je in staat om de concepten van Agent-Based Modeling hands-on toe te passen. Je krijgt de gelegenheid om specifieke scenario's te analyseren, modellen te bouwen en problemen op te lossen, wat bijdraagt aan de verdere ontwikkeling van je vaardigheden op dit gebied. "
+        },
+        "classroomExercise": {
+          "title": "Klassikale oefening",
+          "description": "De groepsoefening in de klas is een gezamenlijke activiteit waarbij de volledige klas actief betrokken is. Tijdens deze sessie zal de docent instructies verstrekken en begeleiding bieden terwijl de klas gezamenlijk aan een specifieke taak werkt. Dit stimuleert samenwerking en bevordert het begrip van Agent-Based Modeling binnen een groepscontext. "
+        }
+      },
+      "teacherGuide": {
+        "title": "Docentenhandleiding",
+        "description": {
+          "title": "Inhoud",
+          "description": "De docentenhandleiding biedt begeleiding voor docenten bij het geven van de les, inclusief nuttige tips en informatie om het lesproces soepel te laten verlopen."
+        },
+        "presentationInstructions": {
+          "title": "Presentatie instructies",
+          "description": "De presentatie-instructies bevatten een duidelijke gids over wat er moet worden gezegd tijdens de presentatie. Belangrijke informatie is gemarkeerd, waardoor het gemakkelijker wordt voor de docent om essentiële concepten over te brengen."
+        },
+        "possibleAnswers": {
+          "title": "Potentiële oplossingen",
+          "description": "In de docentenhandleiding staat per opdracht beschreven hoe deze moeten worden uitgevoerd, inclusief mogelijke antwoorden op opdrachten. Dit helpt docenten bij het voorbereiden van lessen en het begeleiden van studenten door verschillende opdrachten."
+        }
+      }
+    }
+  },
+  "resource": {
+    "title": "Bronnen",
+    "description": "Op deze pagina vind je extra bronnen om je te helpen in het proces om Agent-Based Modeling te begrijpen en toe te kunnen passen.",
+    "courses": {
+      "title": "Cursussen en Tutorials",
+      "complexityExplorer": {
+        "title": "Complexity Explorer",
+        "courseTitle": "Fundamentals of NetLogo",
+        "instructor": "Instructeur: William Rand",
+        "description": "Complexity Explorer biedt online cursussen, tutorials, and materialen aan die belangrijk zijn voor de studie van complexe systemen. Complexity Explorer is een educatief project van het Santa Fe Institute."
+      },
+      "seeing_abm": {
+        "title": "Seeing ABM",
+        "courseTitle": "Een visuele uitleg voor het begrijpen van agent-based modeling.",
+        "instructor": "Complexity Science Hub",
+        "description": "Een visuele uitleg voor het begrijpen van agent-based modeling."
+      },
+      "netlogo_tutorials": {
+        "title": "Learning NetLogo",
+        "courseTitle": "temp",
+        "instructor": "NetLogo",
+        "description": "NetLogo tutorials uit de gebruikershandleiding."
+      }
+    },
+    "books": {
+      "title": "Boeken",
+      "simulatingTheComplexityOfSocieties": {
+        "title": "Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies",
+        "description": "Een boek over agent-based modelling in de archeologie.",
+        "writtenBy": "Iza Romanowska, Colin D. Wren, en Stefani A. Crabtree",
+        "publisherAndImprint": "The SFI Press Scholar Series",
+        "pages": "442",
+        "publicationDate": "30 juli 2021",
+        "labels": {
+          "authorsLabel": "Geschreven door:",
+          "publisherAndImprintLabel": "Uitgever:",
+          "publicationDateLabel": "Publicatie Datum:"
+        }
+      },
+      "RCultural": {
+        "title": "Individual-based models of cultural evolution. A step-by-step guide using R.",
+        "description":"Een stap-bij-stap boek over het bouwen van modellen voor culturele evolutie met R.",
+        "writtenBy": "Alberto Acerbi, Alex Mesoudi, and Marco Smolla",
+        "publisherAndImprint": "OSF Preprints",
+        "publicationDate": "1 December 2020",
+        "labels": {
+          "authorsLabel": "Geschreven door:",
+          "publisherAndImprintLabel": "Uitgever:",
+          "publicationDateLabel": "Publicatie Datum:"
+        }
+      },
+      "ecology": {
+        "title": "Agent-based and Individual-based Modeling: A Practical Introduction",
+        "description":"Agent-based modeling in NetLogo voor ecologie.",
+        "writtenBy": "Steven F. Railsback and Volker Grimm",
+        "publisherAndImprint": "Princeton University Press",
+        "publicationDate": "26 March 2019",
+        "labels": {
+          "authorsLabel": "Geschreven door:",
+          "publisherAndImprintLabel": "Uitgever:",
+          "publicationDateLabel": "Publicatie Datum:"
+        }
+      },
+      "geography": {
+        "title": "Spatial Simulation: Exploring Pattern and Process.",
+        "description":"Agent-based modeling in NetLogo voor geografie.",
+        "writtenBy": "David O’Sullivan and George Perry",
+        "publisherAndImprint": "Wiley-Blackwell",
+        "publicationDate": "September 2013",
+        "labels": {
+          "authorsLabel": "Geschreven door:",
+          "publisherAndImprintLabel": "Publisher:",
+          "publicationDateLabel": "Publicatie Datum:"
+        }
+      },
+      "economics": {
+        "title": "Agent‐Based Modelling in Economics ",
+        "description":"Agent-based modeling in NetLogo voor economie.",
+        "writtenBy": "Lynne Hamill and Nigel Gilbert",
+        "publisherAndImprint": "Wiley-Blackwell",
+        "publicationDate": "6 November 2015",
+        "labels": {
+          "authorsLabel": "Geschreven door:",
+          "publisherAndImprintLabel": "Publisher:",
+          "publicationDateLabel": "Publicatie Datum:"
+        }
+      }            
+    },
+    "extra": {
+      "title": "Nuttige Sites",
+      "netLogoDictionary": {
+        "title": "NetLogo Woordenboek",
+        "description": "The Dictionary of NetLogo Primitives is een Northwestern-website waarop het mogelijk is woorden te zoeken die voorkomen bij het opstellen van een Agent-Based Model in Netlogo."
+      },
+      "netLogoModelLibrary": {
+        "title": "NetLogo Modelbibliotheek",
+        "description": "Op de website van Netlogo bevindt zich een lijst met de verschillende modellen die al zijn gemaakt. Deze kun je downloaden en gebruiken. Ze kunnen gebruikt worden als voorbeeld hoe je zelf een model kan maken."
+      },
+      "stackOverflow": {
+        "title": "Stack Overflow",
+        "description": "Stack Overflow is een forum waar je vragen kan stellen en beantwoorden. Ook NetLogo-gebruikers bevinden zich op dit forum."
+      },
+      "gitHub": {
+        "title": "Bibliograpie van ABM modellen in archeologie",
+        "description": "Een lijst van literatuur en bronnen van Agent Based Models (ABM) in de archeologie. Bijgehouden en gecreeërd door Iza Romanowska en Lennart Linde."
+      }
+    }
+  },
+  "about-tutorial": {
+    "title": "De Tutorials",
+    "description": "Selecteer 'Open Tutorials' om te beginnen met de tutorials. Er zijn vijf lessen die je door verschillende aspecten van het bouwen van een agent-based model leiden. Selecteer 'Overzicht' om een overzicht van de leerdoelen van de verschillende tutorials te bekijken. Als je problemen vindt met de tutorials, laat het ons weten op GitHub, zie 'Geef Feedback'.",
+    "button": {
+      "tutorial": "Open Tutorials",
+      "overview": "Overzicht",
+      "feedback": "Geef Feedback"
+    },
+    "video": {
+      "title": "Introductie video",
+      "paragraph": "Deze video legt de basis van agent-based modeling uit."   }
+  },
+  "spoc": {
+    "title": "Online cursus",
+    "description1": "De videos hieronder zijn gemaakt voor een 'Small Private Online Course' (SPOC) over ‘Modelling and Simulation in Archaeology’ gegeven in 2016/17 door de Faculteit der Archeologie, Universiteit Leiden. Het doel van de videos was om belangrijke concepten van agent-based modelling en hun toepassing in archeologie uit te leggen. Daarom, zijn de videos nuttig naast hun oorspronkelijke context.",
+    "description2": "De videos zijn geschreven door de docenten van het vak, Fulco Scherjon, Iza Romanowska en Karsten Lambers. Ze zijn geproduceerd door de Centre for Innovation van Universiteit Leiden, die wij graag willen bedanken voor hun royale technische en financiele support. De videos zijn uitbracht onder een CC BY-NC-SA 3.0 licentie.",
+    "button_videos": "Naar de videos",
+    "button_paper": "Lees het artikel",
+    "video1": {
+      "title": "Introduction"
+    },
+    "video2": {
+      "title": "Why model?"
+    },
+    "video3": {
+      "title": "How to simulate?"
+    },
+    "video4": {
+      "title": "Overview of simulation"
+    },
+    "video5": {
+      "title": "10 steps of model development"
+    },
+    "video6": {
+      "title": "Data analysis"
+    },
+    "video7": {
+      "title": "Validation"
+    },
+    "video8": {
+      "title": "Best practice"
+    }
+  },
+  "about": {
+    "title": "Over ons",
+    "description": "Het ABMA project is een internationale samenwerking dat gefinancierd wordt door Erasmus+. De samenwerking is tussen Aarhus Universiteit, Universiteit Leiden, Landward Research en Hogeschool Saxion. Het doel van dit project is om een internationale onlinecursus en vak training te maken waar men leert een simulatie te maken met Agent-Based Modeling. ",
+    "team-members": "Het team:",
+    "organizers": {
+      "erasmus": {
+        "title": "Erasmus+",
+        "description": "Dit project is gefinancierd door erasmus+."
+      },
+      "landward": {
+        "title": "Landward Research",
+        "description": "Dit project is gecoördineerd door Landward Research."
+      }
+    },
+    "partners": {
+      "title": "Partners",
+      "aarhus": "Aarhus Universiteit",
+      "leiden": "Universiteit Leiden",
+      "saxion": "Hogeschool Saxion"
+    },
+    "acknowledgements": {
+      "title": "Dankwoord",
+      "paragraph1": "We willen de studentengroepen van het Saxion bedanken die met ons gewerkt hebben als onderdeel van hun Smart Solution Semester, we willen de eerst genoemde groep bedanken voor het maken van deze website en het 'Lesmateriaal':",
+      "students1": "September 2022 - februari 2023: Dany Dragoi, Liam van den Bosch, Marko Stojkovic, Max van Duinen, Nora van den Engel, Roan Man, Stefan Oostingh en hun tutor: Mark Spanjer.",
+      "students2": "Februari 2022 - july 2023: Alice Overgaauw, Johan Broersma, Mandy Hazenberg, Paulina Fulneczek, Ties Heesink en hun tutor: Jan Willem Huson.",
+      "students3": "September 2023 - februari 2024: Arnfinn Sijbrant, Eva Baan, Jip Mulder, Robert Aalpoel, Sem Lucas, Sterre Regts en hun tutor: Jan Willem Huson.",
+      "paragraph2": "Voor het project hebben we een aantal workshops georganiseerd voor het verspreiden en testen van de tutorials. We hebben hulp gehad van veel mensen bij deze workshops en deze willen we graag bedanken voor hun hulp: Adéla Sobotkova, Agnes Schneider, Alice Overgaauw, Eduardo Herrera Malatesta, Jens Emil Bødstrup Christoffersen, Johan Broersma, Magnus Lindholm Nielsen, Mandy Hazenberg, María Coto Sarmiento, Paulina Fulneczek, Petra Hermankova, Ties Heesink. We willen ook alle deelnemers van de workshops bedanken.",
+      "paragraph3": "Financiering erkenning: The Carlsberg Foundation's Young Researcher Fellowship (CF21-0382)."
+    }
+  }
+}

@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+src/assets/Lesmateriaal-ABMA.zip filter=lfs diff=lfs merge=lfs -text
+src/assets/ClassroomMaterial-ABMA.zip filter=lfs diff=lfs merge=lfs -text

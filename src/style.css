@@ -1,0 +1,35 @@
+/* global styles */
+
+/* text */
+h1 {
+  font-size: clamp(1rem, 0.5rem + 5vw, 6rem);
+  font-family: 'Fjalla One', sans-serif;
+}
+
+h2 {
+  font-size: clamp(1rem, 1rem + 5vw, 3rem);
+  font-family: 'Fjalla One', sans-serif;
+}
+
+h3 {
+  font-size: clamp(1rem, 1rem + 2vw, 2rem);
+  font-family: 'Fjalla One', sans-serif;
+}
+
+h4 {
+  font-size: clamp(0.8rem, 0.6rem + 1vw, 1.5rem);
+  font-family: 'Fjalla One', sans-serif;
+}
+
+p {
+  font-size: clamp(0.8rem, 0.4rem + 1vw, 1.5rem);
+  font-family: 'Poppins', sans-serif;
+}
+
+/* spacers */
+.spacer {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
