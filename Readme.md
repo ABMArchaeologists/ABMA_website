@@ -1,5 +1,5 @@
-## Code
-Code for the website of the Erasmus+ Agent-based Modeling for Archeologists project.
+## Agent-based Modeling for Archeologists
+This repository contains the code for the website of the Erasmus+ Agent-based Modeling for Archeologists project.
 The website hosts the tutorials created in this project.
 
 ## Setting up GitHub pages:
@@ -15,6 +15,7 @@ See also: https://cli.vuejs.org/guide/deployment.html#github-pages
 1. Run 'npm install'
 2. Run 'npm run serve'
 
+## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
