@@ -1,6 +1,6 @@
 ## Agent-based Modeling for Archaeologists
 This repository contains the code for the website of the Erasmus+ Agent-based Modeling for Archaeologists project.
-The website is used for the disemination of the interactive tutorials created in this project. The website is hosted on GitHub Pages.
+The website is used for the dissemination of the interactive tutorials created in this project. The website is hosted on GitHub Pages.
 
 ## Setting up GitHub pages:
 See also: https://cli.vuejs.org/guide/deployment.html#github-pages
