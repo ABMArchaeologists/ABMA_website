@@ -1,0 +1,7 @@
+[submodule "public/ABMA_tutorials"]
+    path = public/ABMA_tutorials
+    url = git://github.com/ABMArchaeologists/ABMA_tutorials
+
+[submodule "dist/ABMA_tutorials"]
+    path = dist/ABMA_tutorials
+    url = git://github.com/ABMArchaeologists/ABMA_tutorials
