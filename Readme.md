@@ -1,4 +1,5 @@
 ## Agent-based Modeling for Archaeologists
+[![DOI](https://zenodo.org/badge/781353245.svg)](https://zenodo.org/doi/10.5281/zenodo.10931758)
 This repository contains the code for the website of the Erasmus+ Agent-based Modeling for Archaeologists project.
 The website is used for the dissemination of the interactive tutorials created in this project. The website is hosted on GitHub Pages.
 
