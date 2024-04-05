@@ -117,6 +117,7 @@ export default {
       teacherGuideSource: require('../assets/teacherGuide.png'),
       presentationInstructionSource: require('../assets/powerpoint-instructions.png'),
       classroomExerciseExplanationSource: require('../assets/exerciseExplenations.png'),
+      classroomExerciseExplanationSource: require('../assets/exerciseExplenations.png'),
       showDiv: true,
       windowWidth: window.innerWidth
     }
@@ -132,41 +133,27 @@ export default {
     CourseTopic
   },
   methods: {
-    downloadZip () {
-      if(this.$i18n.locale === 'nl')
+    downloadZip (){
+      var fileName;
+      if(this.$i18n.locale === 'en')
       {
-        // Replace 'your-zip-file.zip' with the actual path to your zip file
-        const zipFilePath = '../assets/Lesmateriaal-ABMA.zip'
-
-        // Create a link element
-        const link = document.createElement('a')
-        link.href = zipFilePath
-
-        // Set the download attribute with the desired file name
-        link.download = 'Lesmateriaal-ABMA.zip'
-      } else {
-        // Replace 'your-zip-file.zip' with the actual path to your zip file
-        const zipFilePath = '../assets/ClassroomMaterial-ABMA.zip'
-
-        // Create a link element
-        const link = document.createElement('a')
-        link.href = zipFilePath
-
-        // Set the download attribute with the desired file name
-        link.download = 'ClassroomMaterial-ABMA.zip'
+        fileName = 'ClassroomMaterial-ABMA.zip';
+      }  else {
+        fileName = 'Lesmateriaal-ABMA.zip';
       }
 
+      // Get the path to the file in the public folder
+      const filePath = process.env.BASE_URL + fileName; // Change 'filename.ext' to your file's path
 
- 
+      // Create an anchor element
+      const link = document.createElement('a');
+      link.href = filePath;
 
-      // Append the link to the document
-      document.body.appendChild(link)
+      // Set the download attribute to specify the filename
+      link.setAttribute('download', fileName); // Change 'filename.ext' to your desired filename
 
-      // Trigger a click on the link to start the download
-      link.click()
-
-      // Remove the link from the document
-      document.body.removeChild(link)
+      // Simulate a click on the anchor element
+      link.click();
     },
     scrollToSection (refName) {
       var section = document.getElementById(refName);
