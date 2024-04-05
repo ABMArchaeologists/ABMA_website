@@ -36,7 +36,7 @@ authors:
     orcid: https://orcid.org/0000-0001-6432-0925
   - family-names: Aitchison
     given-names: Kenneth
-    orcid:
+    orcid: https://orcid.org/0000-0001-6594-1408
 title: "ABMA: Lessons learned. Data and source code"
 version: 1.0.0
 date-released: 2024-04-03
