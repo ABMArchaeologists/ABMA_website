@@ -134,23 +134,26 @@ export default {
   },
   methods: {
     downloadZip (){
-      var fileName;
+      //var fileName;
+      var filePath;
       if(this.$i18n.locale === 'en')
       {
-        fileName = 'ClassroomMaterial-ABMA.zip';
+        filePath = 'https://zenodo.org/records/10950153/files/ClassroomMaterial-ABMA.zip';
+        // fileName = 'ClassroomMaterial-ABMA.zip';
       }  else {
-        fileName = 'Lesmateriaal-ABMA.zip';
+        filePath = 'https://zenodo.org/records/10950153/files/Lesmateriaal-ABMA.zip'
+        // fileName = 'Lesmateriaal-ABMA.zip';
       }
 
       // Get the path to the file in the public folder
-      const filePath = process.env.BASE_URL + fileName; // Change 'filename.ext' to your file's path
+      // const filePath = process.env.BASE_URL + fileName; // Change 'filename.ext' to your file's path
 
       // Create an anchor element
       const link = document.createElement('a');
       link.href = filePath;
 
       // Set the download attribute to specify the filename
-      link.setAttribute('download', fileName); // Change 'filename.ext' to your desired filename
+      // link.setAttribute('download', fileName); // Change 'filename.ext' to your desired filename
 
       // Simulate a click on the anchor element
       link.click();
