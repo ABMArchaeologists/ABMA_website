@@ -138,10 +138,10 @@ export default {
       var filePath;
       if(this.$i18n.locale === 'en')
       {
-        filePath = 'https://zenodo.org/records/10950153/files/ClassroomMaterial-ABMA.zip';
+        filePath = 'https://zenodo.org/records/10980488/files/ClassroomMaterial-ABMA.zip';
         // fileName = 'ClassroomMaterial-ABMA.zip';
       }  else {
-        filePath = 'https://zenodo.org/records/10950153/files/Lesmateriaal-ABMA.zip'
+        filePath = 'https://zenodo.org/records/10980488/files/Lesmateriaal-ABMA.zip'
         // fileName = 'Lesmateriaal-ABMA.zip';
       }
 
