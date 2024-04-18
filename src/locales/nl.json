@@ -256,6 +256,7 @@
     "description": "Selecteer 'Open Tutorials' om te beginnen met de tutorials. Er zijn vijf lessen die je door verschillende aspecten van het bouwen van een agent-based model leiden. Selecteer 'Overzicht' om een overzicht van de leerdoelen van de verschillende tutorials te bekijken. Als je problemen vindt met de tutorials, laat het ons weten op GitHub, zie 'Geef Feedback'.",
     "button": {
       "tutorial": "Open Tutorials",
+      "download_tutorial": "Download Tutorials",
       "overview": "Overzicht",
       "feedback": "Geef Feedback"
     },

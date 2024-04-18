@@ -4,6 +4,7 @@
         <h1>{{ $t("about-tutorial.title") }}</h1>
         <p>{{ $t("about-tutorial.description") }}</p>
         <button @click="openTutorial">{{$t("about-tutorial.button.tutorial")}}</button>
+        <button @click="downloadTutorial">{{$t("about-tutorial.button.download_tutorial")}}</button>
         <br>
         <button><router-link class="link" :to="{ name: 'howtoguide' }">{{
           $t("about-tutorial.button.overview") }}</router-link></button>
@@ -54,6 +55,12 @@
         const relativePath = './ABMA_tutorials/Learn ABM.html';
         const url = process.env.BASE_URL + relativePath;
         window.open(url, '_blank');
+      },
+      downloadTutorial () {
+        // let route = this.$router.resolve({ path: "/tutorial" });
+        // window.open(route.href);
+        const websiteUrl = 'https://zenodo.org/doi/10.5281/zenodo.10931586';
+        window.open(websiteUrl, '_blank');
       },
       openFeedbackPage () {
         // let route = this.$router.resolve({ path: "/tutorial" });
@@ -115,6 +122,7 @@
         background: transparent;
         color: #140A01;
         border: 2px solid #140A01;
+        width: 40%;
         border-radius: 5px;
         margin-top: 16px;
         margin-right: 10px;

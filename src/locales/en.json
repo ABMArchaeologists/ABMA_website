@@ -260,6 +260,7 @@
     "description": "Select 'Open Tutorials' to start working on the tutorials. There are five tutorials which guide you through different aspects of building agent-based models using NetLogo. Select 'Overview' to see a table of contents showing the learning goals of each tutorial. The tutorials currently do not support mobile use. If you find any issues with the tutorials please let us know on GitHub, see 'Give Feedback'. ",
     "button": {
       "tutorial": "Open Tutorials",
+      "download_tutorial": "Download Tutorials",
       "overview": "Overview",
       "feedback": "Give Feedback"
     },
