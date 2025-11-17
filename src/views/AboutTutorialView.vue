@@ -12,13 +12,13 @@
 
       </div>
     </div>
-  
+
     <div id="video-section">
       <div class="spacer layer5"></div>
       <div v-if="showDiv" class="course-options">
         <section class="video-container">
             <div class="video">
-              <div style="position:relative;padding-bottom:62.171052631579%"><iframe id="kaltura_player" type="text/javascript"  src='https://cdnapisec.kaltura.com/p/1488881/embedPlaykitJs/uiconf_id/52267962?iframeembed=true&entry_id=1_cylus2xc&config[provider]={"widgetId":"1_im3gum81"}&config[playback]={"startTime":0}'  allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Introduction to Agent-Based Modelling for Archaeologists" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+              <div style="position:relative;padding-bottom:62.171052631579%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_kudb57z6&config[provider]={"widgetId":"0_lw8kp9d4"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="Introduction to Agent-Based Modelling for Archaeologists"></iframe></div>
             </div>
             <div class="text">
                 <h1>{{ $t("about-tutorial.video.title") }}</h1>
@@ -30,9 +30,9 @@
     </div>
 
   </template>
-  
+
   <script>
-  
+
   export default {
     data () {
       return {
@@ -70,7 +70,7 @@
       },
       scrollToSection (refName) {
         const sectionRef = this.$refs[refName]
-  
+
         if (sectionRef) {
           sectionRef.scrollIntoView({
             behavior: 'smooth',
@@ -86,7 +86,7 @@
     }
   }
   </script>
-  
+
   <style lang="scss" scoped>
   #title-section {
     background-color: #FCF3EB;
@@ -95,7 +95,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-  
+
     #course-text {
       text-align: center;
       color: #B85800;
@@ -103,11 +103,11 @@
       max-width: 1440px;
       margin-top: 5rem;
       margin-bottom: 3rem;
-  
+
       h1 {
         color: #596818;
       }
-  
+
       p {
         color: #140A01;
       }
@@ -117,7 +117,7 @@
           text-decoration: none;
           color: inherit;
         }
-  
+
       button {
         background: transparent;
         color: #140A01;
@@ -133,14 +133,14 @@
         font-size: 20px;
         transition: transform 0.3s ease-in-out;
         cursor: pointer;
-  
+
         &:hover {
             transform: scale(1.05);
         }
       }
     }
   }
-  
+
   #video-section {
     background-color: #B85800;
 
@@ -149,7 +149,7 @@
     align-items: center;
     justify-content: center;
     padding-bottom: 2rem;
-  
+
     #course-gridContainer {
       width: 90%;
       display: grid;
@@ -157,7 +157,7 @@
       gap: 60px;
       max-width: 1440px;
       margin: 20px auto;
-  
+
       .lesson-field {
         cursor: pointer;
         text-align: center;
@@ -167,7 +167,7 @@
         display: inline-block;
         // background-color: #fff;
         transition: transform 0.3s ease-in-out;
-  
+
         img {
           width: 100%;
           max-width: 100%;
@@ -175,12 +175,12 @@
           object-fit: cover;
           border-radius: 8px;
         }
-  
+
         h3 {
           margin: 10px 0;
           color: #596818;
         }
-  
+
         &:hover {
         transform: scale(1.05);
       }
@@ -195,7 +195,7 @@
     justify-content: center;
     align-items: center;
 
- 
+
     .video {
         //   grid-column: span 3;
         width:90%;
@@ -211,34 +211,34 @@
         color: #FCF3EB;
       }
     }
-  
+
 }
-  
+
   .explanations {
     background-color: #FCF3EB;
     display: flex;
     align-items: center;
     justify-content: center;
     padding-bottom: 3rem;
-  
+
     .explanations-container {
       width: 90%;
       max-width: 1440px;
       display: flex;
       flex-direction: column;
       gap: 2rem;
-  
+
       .topics {
         display: flex;
         flex-direction: column;
         gap: 1rem;
         border-radius: 8px;
-  
+
         h2 {
           padding-left: 5rem;
           padding-top: 2rem;
         }
-  
+
         .presentation,
         .worksheet,
         .teacher-guide {
@@ -251,51 +251,51 @@
       }
     }
   }
-  
+
   .layer1 {
     aspect-ratio: 900/20;
     background-image: url('../assets/transitions/wave-haikei-DFC19B-D9AA61.svg');
   }
-  
+
   .layer2 {
     aspect-ratio: 900/20;
     background-image: url('../assets/transitions/wave-haikei-D9AA61-B85800.svg');
   }
-  
+
   .layer3 {
     aspect-ratio: 900/20;
     background-image: url('../assets/transitions/wave-haikei-B85800-BA4219.svg');
   }
-  
+
   .layer4 {
     aspect-ratio: 900/20;
     background-image: url('../assets/transitions/wave-haikei-FCF3EB-white-fff-whiter.svg');
   }
-  
+
   .layer5 {
     aspect-ratio: 900/20;
     background-image: url('../assets/transitions/wave-haikei-FCF3EB-Transparent.svg');
   }
-  
+
   .layer6 {
     aspect-ratio: 900/20;
     background-image: url('../assets/transitions/wave-haikei-Transparent-FCF3EB.svg');
   }
-  
+
   // Media queries
   // Mobile devices
   @media (max-width: 480px) {
     #title-section {
-  
+
     #course-text {
       width: 90%;
     }
   }
     #course-container {
-  
+
       #course-gridContainer {
         grid-template-columns: 1fr;
-  
+
         #course-text {
           button {
             background: transparent;
@@ -310,11 +310,11 @@
       }
     }
     .explanations {
-  
+
     .explanations-container {
-  
+
       .topics {
-  
+
         h2 {
           font-size: clamp(1rem, 1rem + 2vw, 2rem);
           text-align: center;
@@ -325,17 +325,16 @@
     }
   }
   }
-  
+
   // Tablets, iPads
   @media (max-width: 786px) {}
-  
+
   // Small laptops
   @media (max-width: 1024px) {}
-  
+
   // Desktops, large screens
   @media (max-width: 1200px) {}
-  
+
   // TV, Extra large screens
   @media (min-width: 1201px) {}
   </style>
-  
