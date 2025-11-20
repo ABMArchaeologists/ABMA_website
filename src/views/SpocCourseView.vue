@@ -20,7 +20,11 @@
         <div class="row">
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_bd9nzv3x&config[provider]={"widgetId":"0_1ohta2d9"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="1.2 Introduction" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_bd9nzv3x&config[provider]={"widgetId":"0_1ohta2d9"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="1.2 Introduction"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video1.title") }}</h3>
@@ -29,7 +33,11 @@
 
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_yvvhdhew&config[provider]={"widgetId":"0_2ld2g846"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="1.3 Why model?" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_yvvhdhew&config[provider]={"widgetId":"0_2ld2g846"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="1.3 Why model?"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video2.title") }}</h3>
@@ -40,7 +48,11 @@
         <div class="row">
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_dwdnujl8&config[provider]={"widgetId":"0_bf4v4djf"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="2.2 How to simulate?" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_dwdnujl8&config[provider]={"widgetId":"0_bf4v4djf"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="2.2 How to simulate?"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video3.title") }}</h3>
@@ -49,7 +61,11 @@
 
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_xldw3qs4&config[provider]={"widgetId":"0_aj6sd7mx"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="4.3 Overview of simulation" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_xldw3qs4&config[provider]={"widgetId":"0_aj6sd7mx"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="4.3 Overview of simulation"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video4.title") }}</h3>
@@ -60,7 +76,11 @@
         <div class="row">
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_3bm4mccw&config[provider]={"widgetId":"0_rx14x81p"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="5.2 10 steps of model development" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_3bm4mccw&config[provider]={"widgetId":"0_rx14x81p"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="5.2 10 steps of model development"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video5.title") }}</h3>
@@ -69,7 +89,11 @@
 
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_egqfx3vy&config[provider]={"widgetId":"0_4h18sdmz"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="6.2 Data analysis" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_egqfx3vy&config[provider]={"widgetId":"0_4h18sdmz"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="6.2 Data analysis"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video6.title") }}</h3>
@@ -80,7 +104,11 @@
         <div class="row">
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_thl5co1i&config[provider]={"widgetId":"0_nuhu8uwi"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="6.3 Validation" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_thl5co1i&config[provider]={"widgetId":"0_nuhu8uwi"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="6.3 Validation"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video7.title") }}</h3>
@@ -89,7 +117,11 @@
 
           <div class="course-block">
             <div class="video">
+<<<<<<< HEAD
               <div style="position:relative;padding-bottom:65.25%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_nsh5ccbm&config[provider]={"widgetId":"0_wbhsifti"}'  style="width: 720px;height: 405px;border: 0;" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="7.2 Best practice" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"></iframe></div>
+=======
+              <div style="position:relative;padding-bottom:0%"><iframe id="kaltura_player" type="text/javascript"  src='https://api.frp2.ovp.kaltura.com/p/10345/embedPlaykitJs/uiconf_id/23456908?iframeembed=true&entry_id=0_nsh5ccbm&config[provider]={"widgetId":"0_wbhsifti"}'  style="border: 0;width: 100%" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" title="7.2 Best practice"></iframe></div>
+>>>>>>> 008c6d371ef6f14ef53105687f567f1a325caab6
             </div>
             <div class="text">
               <h3>{{ $t("spoc.video8.title") }}</h3>
